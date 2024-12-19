@@ -17,6 +17,5 @@
 
 <img src="img/fox.jpg" width="180" alt="狐狸睡大觉！">
 
-![莉莉娅's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myfanqie&count_private=true&theme=radical)
-
+![莉莉娅's GitHub stats](https://github-readme-stats-nof3-8rglog1cc-myfanqies-projects.vercel.app/api?username=Myfanqie&count_private=true&theme=radical)
 
