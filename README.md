@@ -17,4 +17,6 @@
 
 <img src="img/fox.jpg" width="180" alt="狐狸睡大觉！">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
